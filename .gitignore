@@ -1,0 +1,7 @@
+*.idea
+*.log
+*.log.*
+*.pyc
+MemcachedSource-*.json
+.installed.cfg
+*.egg-info
